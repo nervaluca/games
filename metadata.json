@@ -1,0 +1,6 @@
+{
+  "name": "Super Elettricista",
+  "description": "Gioco sparatutto arcade con l'elettricista super cablato che lancia attrezzi elettrici agli apprendisti che emettono il verso gnugnu!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
